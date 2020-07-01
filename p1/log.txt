@@ -1,0 +1,275 @@
+
+[Tue Feb 25 00:31:43 2020] INF: [app.cpp (86)] App created
+[Tue Feb 25 00:31:43 2020] INF: [app.cpp (106)] Iniciando aplicación C:\Users\joseg\Desktop\practPG\bin\p1d.exe
+[Tue Feb 25 00:31:44 2020] INF: [sdladapter.cpp (489)] Window Properties: DOUBLE_BUFFER 
+[Tue Feb 25 00:31:44 2020] INF: [sdladapter.cpp (491)] SDL Window flags: SDL_WINDOW_OPENGL SDL_WINDOW_SHOWN SDL_WINDOW_RESIZABLE SDL_WINDOW_INPUT_FOCUS 
+[Tue Feb 25 00:31:44 2020] INF: [sdladapter.cpp (494)] SDL Context flags: SDL_GL_CONTEXT_DEBUG_FLAG 
+[Tue Feb 25 00:31:44 2020] INF: [window.cpp (128)] Ventana creada. Soporte de OpenGL: GL_VERSION_4_5
+[Tue Feb 25 00:31:44 2020] INF: [windowbuilder.cpp (75)] Información del driver:
+GL_VENDOR: NVIDIA Corporation
+GL_RENDERER: GeForce GTX 1650 with Max-Q Design/PCIe/SSE2
+GL_VERSION: 4.5.0 NVIDIA 442.19
+GL_SHADING_LANGUAGE_VERSION: 4.50 NVIDIA
+Tamaño del framebuffer por defecto:
+   bits de color: (8, 8, 8, 0), depth: 24, stencil: 0
+
+[Tue Feb 25 00:31:44 2020] INF: [app.cpp (161)] Library versions
+PGUPV 64 bits Debug Revision: 1994
+Boost: 1_69
+SDL: Runtime: 2.0.8 Compiled: 2.0.8
+Assimp: 4.1.0
+GLEW: 2.2.0
+Par Shapes: http://github.prideout.net/shapes @ August 2016
+GLI: 0.8.3
+FreeImage: 3.18.0
+ImGui: 1.70
+[Tue Feb 25 00:31:44 2020] INF: [app.cpp (421)] Se han encontrado 1 joystick(s).
+[Tue Feb 25 00:31:44 2020] INF: [sdladapter.cpp (251)] Joystick (XInput Controller #1): 6 ejes, 11 botones, 1 hats, 0 trackballs
+[Tue Feb 25 00:31:44 2020] INF: [bufferobject.cpp (41)] Buffer object 1 ha reservado 96 bytes
+[Tue Feb 25 00:31:44 2020] INF: [bufferobject.cpp (41)] Buffer object 2 ha reservado 72 bytes
+[Tue Feb 25 00:31:44 2020] INF: [bufferobject.cpp (41)] Buffer object 3 ha reservado 40 bytes
+[Tue Feb 25 00:31:44 2020] INF: [bufferobject.cpp (41)] Buffer object 4 ha reservado 128 bytes
+[Tue Feb 25 00:31:44 2020] INF: [bufferobject.cpp (41)] Buffer object 5 ha reservado 368 bytes
+[Tue Feb 25 00:31:44 2020] INF: [glmatrices.cpp (160)] UBO GLMatrices creado
+[Tue Feb 25 00:31:44 2020] INF: [shader.cpp (169)] Compilando ../recursos/shaders/constantshading.vert
+[Tue Feb 25 00:31:44 2020] INF: [shader.cpp (169)] Compilando ../recursos/shaders/constantshading.frag
+[Tue Feb 25 00:31:44 2020] INF: [bufferobject.cpp (41)] Buffer object 6 ha reservado 48 bytes
+[Tue Feb 25 00:31:44 2020] INF: [bufferobject.cpp (41)] Buffer object 7 ha reservado 120 bytes
+[Tue Feb 25 00:31:44 2020] INF: [bufferobject.cpp (41)] Buffer object 8 ha reservado 120 bytes
+[Tue Feb 25 00:31:44 2020] INF: [bufferobject.cpp (41)] Buffer object 9 ha reservado 120 bytes
+[Tue Feb 25 00:31:44 2020] INF: [bufferobject.cpp (41)] Buffer object 10 ha reservado 48 bytes
+[Tue Feb 25 00:31:44 2020] INF: [bufferobject.cpp (41)] Buffer object 11 ha reservado 48 bytes
+[Tue Feb 25 00:31:44 2020] INF: [bufferobject.cpp (41)] Buffer object 12 ha reservado 120 bytes
+[Tue Feb 25 00:31:44 2020] INF: [bufferobject.cpp (41)] Buffer object 13 ha reservado 120 bytes
+[Tue Feb 25 00:31:44 2020] INF: [bufferobject.cpp (41)] Buffer object 14 ha reservado 120 bytes
+[Tue Feb 25 00:31:44 2020] INF: [bufferobject.cpp (41)] Buffer object 15 ha reservado 48 bytes
+[Tue Feb 25 00:31:44 2020] INF: [bufferobject.cpp (41)] Buffer object 16 ha reservado 48 bytes
+[Tue Feb 25 00:31:44 2020] INF: [bufferobject.cpp (41)] Buffer object 17 ha reservado 120 bytes
+[Tue Feb 25 00:31:44 2020] INF: [bufferobject.cpp (41)] Buffer object 18 ha reservado 120 bytes
+[Tue Feb 25 00:31:44 2020] INF: [bufferobject.cpp (41)] Buffer object 19 ha reservado 120 bytes
+[Tue Feb 25 00:31:44 2020] INF: [bufferobject.cpp (41)] Buffer object 20 ha reservado 48 bytes
+[Tue Feb 25 00:31:44 2020] INF: [bufferobject.cpp (41)] Buffer object 21 ha reservado 3440 bytes
+[Tue Feb 25 00:31:44 2020] INF: [bufferobject.cpp (41)] Buffer object 22 ha reservado 5292 bytes
+[Tue Feb 25 00:31:44 2020] INF: [bufferobject.cpp (41)] Buffer object 23 ha reservado 5292 bytes
+[Tue Feb 25 00:31:44 2020] INF: [bufferobject.cpp (41)] Buffer object 24 ha reservado 3528 bytes
+[Tue Feb 25 00:31:44 2020] WAR: [main.cpp (67)] Para construir un cono, es preferible definir un radio muy pequeño, en vez de 0.0
+[Tue Feb 25 00:31:44 2020] INF: [bufferobject.cpp (41)] Buffer object 25 ha reservado 3440 bytes
+[Tue Feb 25 00:31:44 2020] INF: [bufferobject.cpp (41)] Buffer object 26 ha reservado 5292 bytes
+[Tue Feb 25 00:31:44 2020] INF: [bufferobject.cpp (41)] Buffer object 27 ha reservado 5292 bytes
+[Tue Feb 25 00:31:44 2020] INF: [bufferobject.cpp (41)] Buffer object 28 ha reservado 3528 bytes
+[Tue Feb 25 00:31:44 2020] WAR: [window.cpp (615)] (!! ) GL Debug: (PERFORMANCE) Program/shader state performance warning: Vertex shader in program 3 is being recompiled based on GL state.
+[Tue Feb 25 00:31:54 2020] INF: [app.cpp (599)] Aplicación terminada normalmente
+[Tue Feb 25 00:31:54 2020] INF: [bufferobject.cpp (19)] Buffer object 6 (Vertices) destruído
+[Tue Feb 25 00:31:54 2020] INF: [bufferobject.cpp (19)] Buffer object 7 (Vertices) destruído
+[Tue Feb 25 00:31:54 2020] INF: [bufferobject.cpp (19)] Buffer object 8 (Vertices) destruído
+[Tue Feb 25 00:31:54 2020] INF: [bufferobject.cpp (19)] Buffer object 9 (Vertices) destruído
+[Tue Feb 25 00:31:54 2020] INF: [bufferobject.cpp (19)] Buffer object 10 (Vertices) destruído
+[Tue Feb 25 00:31:54 2020] INF: [bufferobject.cpp (19)] Buffer object 11 (Vertices) destruído
+[Tue Feb 25 00:31:54 2020] INF: [bufferobject.cpp (19)] Buffer object 12 (Vertices) destruído
+[Tue Feb 25 00:31:54 2020] INF: [bufferobject.cpp (19)] Buffer object 13 (Vertices) destruído
+[Tue Feb 25 00:31:54 2020] INF: [bufferobject.cpp (19)] Buffer object 14 (Vertices) destruído
+[Tue Feb 25 00:31:54 2020] INF: [bufferobject.cpp (19)] Buffer object 15 (Vertices) destruído
+[Tue Feb 25 00:31:54 2020] INF: [bufferobject.cpp (19)] Buffer object 16 (Vertices) destruído
+[Tue Feb 25 00:31:54 2020] INF: [bufferobject.cpp (19)] Buffer object 17 (Vertices) destruído
+[Tue Feb 25 00:31:54 2020] INF: [bufferobject.cpp (19)] Buffer object 18 (Vertices) destruído
+[Tue Feb 25 00:31:54 2020] INF: [bufferobject.cpp (19)] Buffer object 19 (Vertices) destruído
+[Tue Feb 25 00:31:54 2020] INF: [bufferobject.cpp (19)] Buffer object 20 (Vertices) destruído
+[Tue Feb 25 00:31:54 2020] INF: [bufferobject.cpp (19)] Buffer object 22 (Vertices) destruído
+[Tue Feb 25 00:31:54 2020] INF: [bufferobject.cpp (19)] Buffer object 23 (Normales) destruído
+[Tue Feb 25 00:31:54 2020] INF: [bufferobject.cpp (19)] Buffer object 21 (Indices) destruído
+[Tue Feb 25 00:31:54 2020] INF: [bufferobject.cpp (19)] Buffer object 24 (Coord. de textura (0)) destruído
+[Tue Feb 25 00:31:54 2020] INF: [bufferobject.cpp (19)] Buffer object 26 (Vertices) destruído
+[Tue Feb 25 00:31:54 2020] INF: [bufferobject.cpp (19)] Buffer object 27 (Normales) destruído
+[Tue Feb 25 00:31:54 2020] INF: [bufferobject.cpp (19)] Buffer object 25 (Indices) destruído
+[Tue Feb 25 00:31:54 2020] INF: [bufferobject.cpp (19)] Buffer object 28 (Coord. de textura (0)) destruído
+[Tue Feb 25 00:31:54 2020] INF: [bufferobject.cpp (19)] Buffer object 4 (Vertices) destruído
+[Tue Feb 25 00:31:54 2020] INF: [bufferobject.cpp (19)] Buffer object 3 (Indices) destruído
+[Tue Feb 25 00:31:54 2020] INF: [bufferobject.cpp (19)] Buffer object 2 (Vertices) destruído
+[Tue Feb 25 00:31:54 2020] INF: [bufferobject.cpp (19)] Buffer object 1 (Colores) destruído
+[Tue Feb 25 00:31:54 2020] INF: [bufferobject.cpp (19)] Buffer object 5 (GLMatrices) destruído
+[Tue Feb 25 00:31:54 2020] INF: [sdladapter.cpp (257)] Destruyendo el joystick XInput Controller #1
+[Tue Feb 25 00:31:54 2020] INF: [app.cpp (93)] App destroyed
+[Tue Feb 25 00:31:54 2020] INF: [log.cpp (46)] Closing Log
+
+[Tue Feb 25 00:37:34 2020] INF: [app.cpp (86)] App created
+[Tue Feb 25 00:37:34 2020] INF: [app.cpp (106)] Iniciando aplicación C:\Users\joseg\Desktop\Practicas-PG\bin\p1d.exe
+[Tue Feb 25 00:37:35 2020] INF: [sdladapter.cpp (489)] Window Properties: DOUBLE_BUFFER 
+[Tue Feb 25 00:37:35 2020] INF: [sdladapter.cpp (491)] SDL Window flags: SDL_WINDOW_OPENGL SDL_WINDOW_SHOWN SDL_WINDOW_RESIZABLE SDL_WINDOW_INPUT_FOCUS 
+[Tue Feb 25 00:37:35 2020] INF: [sdladapter.cpp (494)] SDL Context flags: SDL_GL_CONTEXT_DEBUG_FLAG 
+[Tue Feb 25 00:37:35 2020] INF: [window.cpp (128)] Ventana creada. Soporte de OpenGL: GL_VERSION_4_5
+[Tue Feb 25 00:37:35 2020] INF: [windowbuilder.cpp (75)] Información del driver:
+GL_VENDOR: NVIDIA Corporation
+GL_RENDERER: GeForce GTX 1650 with Max-Q Design/PCIe/SSE2
+GL_VERSION: 4.5.0 NVIDIA 442.19
+GL_SHADING_LANGUAGE_VERSION: 4.50 NVIDIA
+Tamaño del framebuffer por defecto:
+   bits de color: (8, 8, 8, 0), depth: 24, stencil: 0
+
+[Tue Feb 25 00:37:35 2020] INF: [app.cpp (161)] Library versions
+PGUPV 64 bits Debug Revision: 1994
+Boost: 1_69
+SDL: Runtime: 2.0.8 Compiled: 2.0.8
+Assimp: 4.1.0
+GLEW: 2.2.0
+Par Shapes: http://github.prideout.net/shapes @ August 2016
+GLI: 0.8.3
+FreeImage: 3.18.0
+ImGui: 1.70
+[Tue Feb 25 00:37:35 2020] INF: [app.cpp (421)] Se han encontrado 1 joystick(s).
+[Tue Feb 25 00:37:35 2020] INF: [sdladapter.cpp (251)] Joystick (XInput Controller #1): 6 ejes, 11 botones, 1 hats, 0 trackballs
+[Tue Feb 25 00:37:35 2020] INF: [bufferobject.cpp (41)] Buffer object 1 ha reservado 96 bytes
+[Tue Feb 25 00:37:35 2020] INF: [bufferobject.cpp (41)] Buffer object 2 ha reservado 72 bytes
+[Tue Feb 25 00:37:35 2020] INF: [bufferobject.cpp (41)] Buffer object 3 ha reservado 40 bytes
+[Tue Feb 25 00:37:35 2020] INF: [bufferobject.cpp (41)] Buffer object 4 ha reservado 128 bytes
+[Tue Feb 25 00:37:35 2020] INF: [bufferobject.cpp (41)] Buffer object 5 ha reservado 368 bytes
+[Tue Feb 25 00:37:35 2020] INF: [glmatrices.cpp (160)] UBO GLMatrices creado
+[Tue Feb 25 00:37:35 2020] INF: [shader.cpp (169)] Compilando ../recursos/shaders/constantshading.vert
+[Tue Feb 25 00:37:35 2020] INF: [shader.cpp (169)] Compilando ../recursos/shaders/constantshading.frag
+[Tue Feb 25 00:37:35 2020] INF: [bufferobject.cpp (41)] Buffer object 6 ha reservado 48 bytes
+[Tue Feb 25 00:37:35 2020] INF: [bufferobject.cpp (41)] Buffer object 7 ha reservado 120 bytes
+[Tue Feb 25 00:37:35 2020] INF: [bufferobject.cpp (41)] Buffer object 8 ha reservado 120 bytes
+[Tue Feb 25 00:37:35 2020] INF: [bufferobject.cpp (41)] Buffer object 9 ha reservado 120 bytes
+[Tue Feb 25 00:37:35 2020] INF: [bufferobject.cpp (41)] Buffer object 10 ha reservado 48 bytes
+[Tue Feb 25 00:37:35 2020] INF: [bufferobject.cpp (41)] Buffer object 11 ha reservado 48 bytes
+[Tue Feb 25 00:37:35 2020] INF: [bufferobject.cpp (41)] Buffer object 12 ha reservado 120 bytes
+[Tue Feb 25 00:37:35 2020] INF: [bufferobject.cpp (41)] Buffer object 13 ha reservado 120 bytes
+[Tue Feb 25 00:37:35 2020] INF: [bufferobject.cpp (41)] Buffer object 14 ha reservado 120 bytes
+[Tue Feb 25 00:37:35 2020] INF: [bufferobject.cpp (41)] Buffer object 15 ha reservado 48 bytes
+[Tue Feb 25 00:37:35 2020] INF: [bufferobject.cpp (41)] Buffer object 16 ha reservado 48 bytes
+[Tue Feb 25 00:37:35 2020] INF: [bufferobject.cpp (41)] Buffer object 17 ha reservado 120 bytes
+[Tue Feb 25 00:37:35 2020] INF: [bufferobject.cpp (41)] Buffer object 18 ha reservado 120 bytes
+[Tue Feb 25 00:37:35 2020] INF: [bufferobject.cpp (41)] Buffer object 19 ha reservado 120 bytes
+[Tue Feb 25 00:37:35 2020] INF: [bufferobject.cpp (41)] Buffer object 20 ha reservado 48 bytes
+[Tue Feb 25 00:37:35 2020] INF: [bufferobject.cpp (41)] Buffer object 21 ha reservado 3440 bytes
+[Tue Feb 25 00:37:35 2020] INF: [bufferobject.cpp (41)] Buffer object 22 ha reservado 5292 bytes
+[Tue Feb 25 00:37:35 2020] INF: [bufferobject.cpp (41)] Buffer object 23 ha reservado 5292 bytes
+[Tue Feb 25 00:37:35 2020] INF: [bufferobject.cpp (41)] Buffer object 24 ha reservado 3528 bytes
+[Tue Feb 25 00:37:35 2020] WAR: [main.cpp (67)] Para construir un cono, es preferible definir un radio muy pequeño, en vez de 0.0
+[Tue Feb 25 00:37:35 2020] INF: [bufferobject.cpp (41)] Buffer object 25 ha reservado 3440 bytes
+[Tue Feb 25 00:37:35 2020] INF: [bufferobject.cpp (41)] Buffer object 26 ha reservado 5292 bytes
+[Tue Feb 25 00:37:35 2020] INF: [bufferobject.cpp (41)] Buffer object 27 ha reservado 5292 bytes
+[Tue Feb 25 00:37:35 2020] INF: [bufferobject.cpp (41)] Buffer object 28 ha reservado 3528 bytes
+[Tue Feb 25 00:37:35 2020] WAR: [window.cpp (615)] (!! ) GL Debug: (PERFORMANCE) Program/shader state performance warning: Vertex shader in program 3 is being recompiled based on GL state.
+[Tue Feb 25 00:37:38 2020] INF: [app.cpp (599)] Aplicación terminada normalmente
+[Tue Feb 25 00:37:38 2020] INF: [bufferobject.cpp (19)] Buffer object 6 (Vertices) destruído
+[Tue Feb 25 00:37:38 2020] INF: [bufferobject.cpp (19)] Buffer object 7 (Vertices) destruído
+[Tue Feb 25 00:37:38 2020] INF: [bufferobject.cpp (19)] Buffer object 8 (Vertices) destruído
+[Tue Feb 25 00:37:38 2020] INF: [bufferobject.cpp (19)] Buffer object 9 (Vertices) destruído
+[Tue Feb 25 00:37:38 2020] INF: [bufferobject.cpp (19)] Buffer object 10 (Vertices) destruído
+[Tue Feb 25 00:37:38 2020] INF: [bufferobject.cpp (19)] Buffer object 11 (Vertices) destruído
+[Tue Feb 25 00:37:38 2020] INF: [bufferobject.cpp (19)] Buffer object 12 (Vertices) destruído
+[Tue Feb 25 00:37:38 2020] INF: [bufferobject.cpp (19)] Buffer object 13 (Vertices) destruído
+[Tue Feb 25 00:37:38 2020] INF: [bufferobject.cpp (19)] Buffer object 14 (Vertices) destruído
+[Tue Feb 25 00:37:38 2020] INF: [bufferobject.cpp (19)] Buffer object 15 (Vertices) destruído
+[Tue Feb 25 00:37:38 2020] INF: [bufferobject.cpp (19)] Buffer object 16 (Vertices) destruído
+[Tue Feb 25 00:37:38 2020] INF: [bufferobject.cpp (19)] Buffer object 17 (Vertices) destruído
+[Tue Feb 25 00:37:38 2020] INF: [bufferobject.cpp (19)] Buffer object 18 (Vertices) destruído
+[Tue Feb 25 00:37:38 2020] INF: [bufferobject.cpp (19)] Buffer object 19 (Vertices) destruído
+[Tue Feb 25 00:37:38 2020] INF: [bufferobject.cpp (19)] Buffer object 20 (Vertices) destruído
+[Tue Feb 25 00:37:38 2020] INF: [bufferobject.cpp (19)] Buffer object 22 (Vertices) destruído
+[Tue Feb 25 00:37:38 2020] INF: [bufferobject.cpp (19)] Buffer object 23 (Normales) destruído
+[Tue Feb 25 00:37:38 2020] INF: [bufferobject.cpp (19)] Buffer object 21 (Indices) destruído
+[Tue Feb 25 00:37:38 2020] INF: [bufferobject.cpp (19)] Buffer object 24 (Coord. de textura (0)) destruído
+[Tue Feb 25 00:37:38 2020] INF: [bufferobject.cpp (19)] Buffer object 26 (Vertices) destruído
+[Tue Feb 25 00:37:38 2020] INF: [bufferobject.cpp (19)] Buffer object 27 (Normales) destruído
+[Tue Feb 25 00:37:38 2020] INF: [bufferobject.cpp (19)] Buffer object 25 (Indices) destruído
+[Tue Feb 25 00:37:38 2020] INF: [bufferobject.cpp (19)] Buffer object 28 (Coord. de textura (0)) destruído
+[Tue Feb 25 00:37:38 2020] INF: [bufferobject.cpp (19)] Buffer object 4 (Vertices) destruído
+[Tue Feb 25 00:37:38 2020] INF: [bufferobject.cpp (19)] Buffer object 3 (Indices) destruído
+[Tue Feb 25 00:37:38 2020] INF: [bufferobject.cpp (19)] Buffer object 2 (Vertices) destruído
+[Tue Feb 25 00:37:38 2020] INF: [bufferobject.cpp (19)] Buffer object 1 (Colores) destruído
+[Tue Feb 25 00:37:38 2020] INF: [bufferobject.cpp (19)] Buffer object 5 (GLMatrices) destruído
+[Tue Feb 25 00:37:38 2020] INF: [sdladapter.cpp (257)] Destruyendo el joystick XInput Controller #1
+[Tue Feb 25 00:37:38 2020] INF: [app.cpp (93)] App destroyed
+[Tue Feb 25 00:37:38 2020] INF: [log.cpp (46)] Closing Log
+
+[Mon Mar  2 22:36:42 2020] INF: [app.cpp (86)] App created
+[Mon Mar  2 22:36:42 2020] INF: [app.cpp (106)] Iniciando aplicación C:\Users\joseg\Desktop\Practicas-PG\bin\p1d.exe
+[Mon Mar  2 22:36:44 2020] INF: [sdladapter.cpp (489)] Window Properties: DOUBLE_BUFFER 
+[Mon Mar  2 22:36:44 2020] INF: [sdladapter.cpp (491)] SDL Window flags: SDL_WINDOW_OPENGL SDL_WINDOW_SHOWN SDL_WINDOW_RESIZABLE SDL_WINDOW_INPUT_FOCUS SDL_WINDOW_MOUSE_FOCUS 
+[Mon Mar  2 22:36:44 2020] INF: [sdladapter.cpp (494)] SDL Context flags: SDL_GL_CONTEXT_DEBUG_FLAG 
+[Mon Mar  2 22:36:44 2020] INF: [window.cpp (128)] Ventana creada. Soporte de OpenGL: GL_VERSION_4_5
+[Mon Mar  2 22:36:44 2020] INF: [windowbuilder.cpp (75)] Información del driver:
+GL_VENDOR: NVIDIA Corporation
+GL_RENDERER: GeForce GTX 1650 with Max-Q Design/PCIe/SSE2
+GL_VERSION: 4.5.0 NVIDIA 442.50
+GL_SHADING_LANGUAGE_VERSION: 4.50 NVIDIA
+Tamaño del framebuffer por defecto:
+   bits de color: (8, 8, 8, 0), depth: 24, stencil: 0
+
+[Mon Mar  2 22:36:44 2020] INF: [app.cpp (161)] Library versions
+PGUPV 64 bits Debug Revision: 1994
+Boost: 1_69
+SDL: Runtime: 2.0.8 Compiled: 2.0.8
+Assimp: 4.1.0
+GLEW: 2.2.0
+Par Shapes: http://github.prideout.net/shapes @ August 2016
+GLI: 0.8.3
+FreeImage: 3.18.0
+ImGui: 1.70
+[Mon Mar  2 22:36:44 2020] INF: [app.cpp (418)] No se han encontrado joysticks en el sistema
+[Mon Mar  2 22:36:44 2020] INF: [bufferobject.cpp (41)] Buffer object 1 ha reservado 96 bytes
+[Mon Mar  2 22:36:44 2020] INF: [bufferobject.cpp (41)] Buffer object 2 ha reservado 72 bytes
+[Mon Mar  2 22:36:44 2020] INF: [bufferobject.cpp (41)] Buffer object 3 ha reservado 40 bytes
+[Mon Mar  2 22:36:44 2020] INF: [bufferobject.cpp (41)] Buffer object 4 ha reservado 128 bytes
+[Mon Mar  2 22:36:44 2020] INF: [bufferobject.cpp (41)] Buffer object 5 ha reservado 368 bytes
+[Mon Mar  2 22:36:44 2020] INF: [glmatrices.cpp (160)] UBO GLMatrices creado
+[Mon Mar  2 22:36:44 2020] INF: [shader.cpp (169)] Compilando ../recursos/shaders/constantshading.vert
+[Mon Mar  2 22:36:44 2020] INF: [shader.cpp (169)] Compilando ../recursos/shaders/constantshading.frag
+[Mon Mar  2 22:36:44 2020] INF: [bufferobject.cpp (41)] Buffer object 6 ha reservado 48 bytes
+[Mon Mar  2 22:36:44 2020] INF: [bufferobject.cpp (41)] Buffer object 7 ha reservado 120 bytes
+[Mon Mar  2 22:36:44 2020] INF: [bufferobject.cpp (41)] Buffer object 8 ha reservado 120 bytes
+[Mon Mar  2 22:36:44 2020] INF: [bufferobject.cpp (41)] Buffer object 9 ha reservado 120 bytes
+[Mon Mar  2 22:36:44 2020] INF: [bufferobject.cpp (41)] Buffer object 10 ha reservado 48 bytes
+[Mon Mar  2 22:36:44 2020] INF: [bufferobject.cpp (41)] Buffer object 11 ha reservado 48 bytes
+[Mon Mar  2 22:36:44 2020] INF: [bufferobject.cpp (41)] Buffer object 12 ha reservado 120 bytes
+[Mon Mar  2 22:36:44 2020] INF: [bufferobject.cpp (41)] Buffer object 13 ha reservado 120 bytes
+[Mon Mar  2 22:36:44 2020] INF: [bufferobject.cpp (41)] Buffer object 14 ha reservado 120 bytes
+[Mon Mar  2 22:36:44 2020] INF: [bufferobject.cpp (41)] Buffer object 15 ha reservado 48 bytes
+[Mon Mar  2 22:36:44 2020] INF: [bufferobject.cpp (41)] Buffer object 16 ha reservado 48 bytes
+[Mon Mar  2 22:36:44 2020] INF: [bufferobject.cpp (41)] Buffer object 17 ha reservado 120 bytes
+[Mon Mar  2 22:36:44 2020] INF: [bufferobject.cpp (41)] Buffer object 18 ha reservado 120 bytes
+[Mon Mar  2 22:36:44 2020] INF: [bufferobject.cpp (41)] Buffer object 19 ha reservado 120 bytes
+[Mon Mar  2 22:36:44 2020] INF: [bufferobject.cpp (41)] Buffer object 20 ha reservado 48 bytes
+[Mon Mar  2 22:36:44 2020] INF: [bufferobject.cpp (41)] Buffer object 21 ha reservado 3440 bytes
+[Mon Mar  2 22:36:44 2020] INF: [bufferobject.cpp (41)] Buffer object 22 ha reservado 5292 bytes
+[Mon Mar  2 22:36:44 2020] INF: [bufferobject.cpp (41)] Buffer object 23 ha reservado 5292 bytes
+[Mon Mar  2 22:36:44 2020] INF: [bufferobject.cpp (41)] Buffer object 24 ha reservado 3528 bytes
+[Mon Mar  2 22:36:44 2020] WAR: [main.cpp (67)] Para construir un cono, es preferible definir un radio muy pequeño, en vez de 0.0
+[Mon Mar  2 22:36:44 2020] INF: [bufferobject.cpp (41)] Buffer object 25 ha reservado 3440 bytes
+[Mon Mar  2 22:36:44 2020] INF: [bufferobject.cpp (41)] Buffer object 26 ha reservado 5292 bytes
+[Mon Mar  2 22:36:44 2020] INF: [bufferobject.cpp (41)] Buffer object 27 ha reservado 5292 bytes
+[Mon Mar  2 22:36:44 2020] INF: [bufferobject.cpp (41)] Buffer object 28 ha reservado 3528 bytes
+[Mon Mar  2 22:36:44 2020] WAR: [window.cpp (615)] (!! ) GL Debug: (PERFORMANCE) Program/shader state performance warning: Vertex shader in program 3 is being recompiled based on GL state.
+[Mon Mar  2 22:36:44 2020] WAR: [window.cpp (615)] (!! ) GL Debug: (PERFORMANCE) Program/shader state performance warning: Vertex shader in program 3 is being recompiled based on GL state, and was not found in the disk cache
+[Mon Mar  2 22:36:46 2020] INF: [app.cpp (599)] Aplicación terminada normalmente
+[Mon Mar  2 22:36:46 2020] INF: [bufferobject.cpp (19)] Buffer object 6 (Vertices) destruído
+[Mon Mar  2 22:36:46 2020] INF: [bufferobject.cpp (19)] Buffer object 7 (Vertices) destruído
+[Mon Mar  2 22:36:46 2020] INF: [bufferobject.cpp (19)] Buffer object 8 (Vertices) destruído
+[Mon Mar  2 22:36:46 2020] INF: [bufferobject.cpp (19)] Buffer object 9 (Vertices) destruído
+[Mon Mar  2 22:36:46 2020] INF: [bufferobject.cpp (19)] Buffer object 10 (Vertices) destruído
+[Mon Mar  2 22:36:46 2020] INF: [bufferobject.cpp (19)] Buffer object 11 (Vertices) destruído
+[Mon Mar  2 22:36:46 2020] INF: [bufferobject.cpp (19)] Buffer object 12 (Vertices) destruído
+[Mon Mar  2 22:36:46 2020] INF: [bufferobject.cpp (19)] Buffer object 13 (Vertices) destruído
+[Mon Mar  2 22:36:46 2020] INF: [bufferobject.cpp (19)] Buffer object 14 (Vertices) destruído
+[Mon Mar  2 22:36:46 2020] INF: [bufferobject.cpp (19)] Buffer object 15 (Vertices) destruído
+[Mon Mar  2 22:36:46 2020] INF: [bufferobject.cpp (19)] Buffer object 16 (Vertices) destruído
+[Mon Mar  2 22:36:46 2020] INF: [bufferobject.cpp (19)] Buffer object 17 (Vertices) destruído
+[Mon Mar  2 22:36:46 2020] INF: [bufferobject.cpp (19)] Buffer object 18 (Vertices) destruído
+[Mon Mar  2 22:36:46 2020] INF: [bufferobject.cpp (19)] Buffer object 19 (Vertices) destruído
+[Mon Mar  2 22:36:46 2020] INF: [bufferobject.cpp (19)] Buffer object 20 (Vertices) destruído
+[Mon Mar  2 22:36:46 2020] INF: [bufferobject.cpp (19)] Buffer object 22 (Vertices) destruído
+[Mon Mar  2 22:36:46 2020] INF: [bufferobject.cpp (19)] Buffer object 23 (Normales) destruído
+[Mon Mar  2 22:36:46 2020] INF: [bufferobject.cpp (19)] Buffer object 21 (Indices) destruído
+[Mon Mar  2 22:36:46 2020] INF: [bufferobject.cpp (19)] Buffer object 24 (Coord. de textura (0)) destruído
+[Mon Mar  2 22:36:46 2020] INF: [bufferobject.cpp (19)] Buffer object 26 (Vertices) destruído
+[Mon Mar  2 22:36:46 2020] INF: [bufferobject.cpp (19)] Buffer object 27 (Normales) destruído
+[Mon Mar  2 22:36:46 2020] INF: [bufferobject.cpp (19)] Buffer object 25 (Indices) destruído
+[Mon Mar  2 22:36:46 2020] INF: [bufferobject.cpp (19)] Buffer object 28 (Coord. de textura (0)) destruído
+[Mon Mar  2 22:36:46 2020] INF: [bufferobject.cpp (19)] Buffer object 4 (Vertices) destruído
+[Mon Mar  2 22:36:46 2020] INF: [bufferobject.cpp (19)] Buffer object 3 (Indices) destruído
+[Mon Mar  2 22:36:46 2020] INF: [bufferobject.cpp (19)] Buffer object 2 (Vertices) destruído
+[Mon Mar  2 22:36:46 2020] INF: [bufferobject.cpp (19)] Buffer object 1 (Colores) destruído
+[Mon Mar  2 22:36:46 2020] INF: [bufferobject.cpp (19)] Buffer object 5 (GLMatrices) destruído
+[Mon Mar  2 22:36:46 2020] INF: [app.cpp (93)] App destroyed
+[Mon Mar  2 22:36:46 2020] INF: [log.cpp (46)] Closing Log

@@ -1,0 +1,13 @@
+﻿  main.cpp
+     Creando biblioteca C:\Users\joseg\Desktop\Practicas-PG\bin\ej4-1d.lib y objeto C:\Users\joseg\Desktop\Practicas-PG\bin\ej4-1d.exp
+guipg.lib(imgui_impl_opengl3.obj) : warning LNK4099: no se encontró PDB 'guipg.pdb' con 'guipg.lib(imgui_impl_opengl3.obj)' o en 'C:\Users\joseg\Desktop\Practicas-PG\bin\guipg.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+guipg.lib(imgui_impl_sdl.obj) : warning LNK4099: no se encontró PDB 'guipg.pdb' con 'guipg.lib(imgui_impl_sdl.obj)' o en 'C:\Users\joseg\Desktop\Practicas-PG\bin\guipg.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+guipg.lib(imgui.obj) : warning LNK4099: no se encontró PDB 'guipg.pdb' con 'guipg.lib(imgui.obj)' o en 'C:\Users\joseg\Desktop\Practicas-PG\bin\guipg.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+guipg.lib(imgui_draw.obj) : warning LNK4099: no se encontró PDB 'guipg.pdb' con 'guipg.lib(imgui_draw.obj)' o en 'C:\Users\joseg\Desktop\Practicas-PG\bin\guipg.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+guipg.lib(imgui_widgets.obj) : warning LNK4099: no se encontró PDB 'guipg.pdb' con 'guipg.lib(imgui_widgets.obj)' o en 'C:\Users\joseg\Desktop\Practicas-PG\bin\guipg.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+guipg.lib(guipg.obj) : warning LNK4099: no se encontró PDB 'guipg.pdb' con 'guipg.lib(guipg.obj)' o en 'C:\Users\joseg\Desktop\Practicas-PG\bin\guipg.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+guipg.lib(imGuIZMOquat.obj) : warning LNK4099: no se encontró PDB 'guipg.pdb' con 'guipg.lib(imGuIZMOquat.obj)' o en 'C:\Users\joseg\Desktop\Practicas-PG\bin\guipg.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+guipg.lib(logConsole.obj) : warning LNK4099: no se encontró PDB 'guipg.pdb' con 'guipg.lib(logConsole.obj)' o en 'C:\Users\joseg\Desktop\Practicas-PG\bin\guipg.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+guipg.lib(nfd_common.obj) : warning LNK4099: no se encontró PDB 'guipg.pdb' con 'guipg.lib(nfd_common.obj)' o en 'C:\Users\joseg\Desktop\Practicas-PG\bin\guipg.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+guipg.lib(nfd_win.obj) : warning LNK4099: no se encontró PDB 'guipg.pdb' con 'guipg.lib(nfd_win.obj)' o en 'C:\Users\joseg\Desktop\Practicas-PG\bin\guipg.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+  ej4-1.vcxproj -> C:\Users\joseg\Desktop\Practicas-PG\bin\ej4-1d.exe

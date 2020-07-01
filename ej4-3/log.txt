@@ -1,0 +1,47 @@
+
+[Tue Mar 10 22:02:56 2020] INF: [app.cpp (86)] App created
+[Tue Mar 10 22:02:56 2020] INF: [app.cpp (106)] Iniciando aplicación C:\Users\joseg\Desktop\Practicas-PG\bin\ej4-3d.exe
+[Tue Mar 10 22:02:58 2020] INF: [sdladapter.cpp (489)] Window Properties: DOUBLE_BUFFER 
+[Tue Mar 10 22:02:58 2020] INF: [sdladapter.cpp (491)] SDL Window flags: SDL_WINDOW_OPENGL SDL_WINDOW_SHOWN SDL_WINDOW_RESIZABLE SDL_WINDOW_INPUT_FOCUS 
+[Tue Mar 10 22:02:58 2020] INF: [sdladapter.cpp (494)] SDL Context flags: SDL_GL_CONTEXT_DEBUG_FLAG 
+[Tue Mar 10 22:02:58 2020] INF: [window.cpp (128)] Ventana creada. Soporte de OpenGL: GL_VERSION_4_5
+[Tue Mar 10 22:02:58 2020] INF: [windowbuilder.cpp (75)] Información del driver:
+GL_VENDOR: NVIDIA Corporation
+GL_RENDERER: GeForce GTX 1650 with Max-Q Design/PCIe/SSE2
+GL_VERSION: 4.5.0 NVIDIA 442.50
+GL_SHADING_LANGUAGE_VERSION: 4.50 NVIDIA
+Tamaño del framebuffer por defecto:
+   bits de color: (8, 8, 8, 0), depth: 24, stencil: 0
+
+[Tue Mar 10 22:02:58 2020] INF: [app.cpp (161)] Library versions
+PGUPV 64 bits Debug Revision: 1994
+Boost: 1_69
+SDL: Runtime: 2.0.8 Compiled: 2.0.8
+Assimp: 4.1.0
+GLEW: 2.2.0
+Par Shapes: http://github.prideout.net/shapes @ August 2016
+GLI: 0.8.3
+FreeImage: 3.18.0
+ImGui: 1.70
+[Tue Mar 10 22:02:58 2020] INF: [app.cpp (418)] No se han encontrado joysticks en el sistema
+[Tue Mar 10 22:02:58 2020] INF: [bufferobject.cpp (41)] Buffer object 1 ha reservado 96 bytes
+[Tue Mar 10 22:02:58 2020] INF: [bufferobject.cpp (41)] Buffer object 2 ha reservado 72 bytes
+[Tue Mar 10 22:02:58 2020] INF: [bufferobject.cpp (41)] Buffer object 3 ha reservado 48 bytes
+[Tue Mar 10 22:02:58 2020] INF: [bufferobject.cpp (41)] Buffer object 4 ha reservado 32 bytes
+[Tue Mar 10 22:02:58 2020] INF: [bindabletexture.cpp (42)] Textura de tipo GL_TEXTURE_2D_ARRAY creada con id 1
+[Tue Mar 10 22:02:58 2020] INF: [bufferobject.cpp (41)] Buffer object 5 ha reservado 368 bytes
+[Tue Mar 10 22:02:58 2020] INF: [glmatrices.cpp (160)] UBO GLMatrices creado
+[Tue Mar 10 22:02:58 2020] INF: [shader.cpp (169)] Compilando ../ej4-3/texture2DArray.vert
+[Tue Mar 10 22:02:58 2020] INF: [shader.cpp (169)] Compilando ../ej4-3/texture2DArray.frag
+[Tue Mar 10 22:02:59 2020] ERR: [window.cpp (717)] Released button with no active renderer. Ignoring...
+[Tue Mar 10 22:03:00 2020] ERR: [window.cpp (717)] Released button with no active renderer. Ignoring...
+[Tue Mar 10 22:03:01 2020] ERR: [window.cpp (717)] Released button with no active renderer. Ignoring...
+[Tue Mar 10 22:03:03 2020] INF: [app.cpp (599)] Aplicación terminada normalmente
+[Tue Mar 10 22:03:03 2020] INF: [bindabletexture.cpp (48)] Textura con id 1 destruída
+[Tue Mar 10 22:03:03 2020] INF: [bufferobject.cpp (19)] Buffer object 3 (Vertices) destruído
+[Tue Mar 10 22:03:03 2020] INF: [bufferobject.cpp (19)] Buffer object 4 (Coord. de textura (0)) destruído
+[Tue Mar 10 22:03:03 2020] INF: [bufferobject.cpp (19)] Buffer object 2 (Vertices) destruído
+[Tue Mar 10 22:03:03 2020] INF: [bufferobject.cpp (19)] Buffer object 1 (Colores) destruído
+[Tue Mar 10 22:03:03 2020] INF: [bufferobject.cpp (19)] Buffer object 5 (GLMatrices) destruído
+[Tue Mar 10 22:03:04 2020] INF: [app.cpp (93)] App destroyed
+[Tue Mar 10 22:03:04 2020] INF: [log.cpp (46)] Closing Log

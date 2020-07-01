@@ -1,0 +1,84 @@
+
+[Mon Mar  2 22:53:53 2020] INF: [app.cpp (86)] App created
+[Mon Mar  2 22:53:53 2020] INF: [app.cpp (106)] Iniciando aplicación C:\Users\joseg\Desktop\Practicas-PG\bin\ej3-4d.exe
+[Mon Mar  2 22:53:54 2020] INF: [sdladapter.cpp (489)] Window Properties: DOUBLE_BUFFER 
+[Mon Mar  2 22:53:54 2020] INF: [sdladapter.cpp (491)] SDL Window flags: SDL_WINDOW_OPENGL SDL_WINDOW_SHOWN SDL_WINDOW_RESIZABLE SDL_WINDOW_INPUT_FOCUS SDL_WINDOW_MOUSE_FOCUS 
+[Mon Mar  2 22:53:54 2020] INF: [sdladapter.cpp (494)] SDL Context flags: SDL_GL_CONTEXT_DEBUG_FLAG 
+[Mon Mar  2 22:53:54 2020] INF: [window.cpp (128)] Ventana creada. Soporte de OpenGL: GL_VERSION_4_5
+[Mon Mar  2 22:53:54 2020] INF: [windowbuilder.cpp (75)] Información del driver:
+GL_VENDOR: NVIDIA Corporation
+GL_RENDERER: GeForce GTX 1650 with Max-Q Design/PCIe/SSE2
+GL_VERSION: 4.5.0 NVIDIA 442.50
+GL_SHADING_LANGUAGE_VERSION: 4.50 NVIDIA
+Tamaño del framebuffer por defecto:
+   bits de color: (8, 8, 8, 0), depth: 24, stencil: 8
+
+[Mon Mar  2 22:53:54 2020] INF: [app.cpp (161)] Library versions
+PGUPV 64 bits Debug Revision: 1994
+Boost: 1_69
+SDL: Runtime: 2.0.8 Compiled: 2.0.8
+Assimp: 4.1.0
+GLEW: 2.2.0
+Par Shapes: http://github.prideout.net/shapes @ August 2016
+GLI: 0.8.3
+FreeImage: 3.18.0
+ImGui: 1.70
+[Mon Mar  2 22:53:54 2020] INF: [app.cpp (418)] No se han encontrado joysticks en el sistema
+[Mon Mar  2 22:53:54 2020] INF: [bufferobject.cpp (41)] Buffer object 1 ha reservado 96 bytes
+[Mon Mar  2 22:53:54 2020] INF: [bufferobject.cpp (41)] Buffer object 2 ha reservado 72 bytes
+[Mon Mar  2 22:53:54 2020] INF: [bufferobject.cpp (41)] Buffer object 3 ha reservado 48 bytes
+[Mon Mar  2 22:53:54 2020] INF: [bufferobject.cpp (41)] Buffer object 4 ha reservado 32 bytes
+[Mon Mar  2 22:53:54 2020] INF: [bufferobject.cpp (41)] Buffer object 5 ha reservado 368 bytes
+[Mon Mar  2 22:53:54 2020] INF: [glmatrices.cpp (160)] UBO GLMatrices creado
+[Mon Mar  2 22:53:54 2020] INF: [shader.cpp (169)] Compilando ../recursos/shaders/constantshadinguniform.vert
+[Mon Mar  2 22:53:54 2020] INF: [shader.cpp (169)] Compilando ../recursos/shaders/constantshadinguniform.frag
+[Mon Mar  2 22:53:56 2020] INF: [app.cpp (599)] Aplicación terminada normalmente
+[Mon Mar  2 22:53:56 2020] INF: [bufferobject.cpp (19)] Buffer object 3 (Vertices) destruído
+[Mon Mar  2 22:53:56 2020] INF: [bufferobject.cpp (19)] Buffer object 4 (Coord. de textura (0)) destruído
+[Mon Mar  2 22:53:56 2020] INF: [bufferobject.cpp (19)] Buffer object 2 (Vertices) destruído
+[Mon Mar  2 22:53:56 2020] INF: [bufferobject.cpp (19)] Buffer object 1 (Colores) destruído
+[Mon Mar  2 22:53:56 2020] INF: [bufferobject.cpp (19)] Buffer object 5 (GLMatrices) destruído
+[Mon Mar  2 22:53:56 2020] INF: [app.cpp (93)] App destroyed
+[Mon Mar  2 22:53:56 2020] INF: [log.cpp (46)] Closing Log
+
+[Tue Mar  3 22:09:20 2020] INF: [app.cpp (86)] App created
+[Tue Mar  3 22:09:20 2020] INF: [app.cpp (106)] Iniciando aplicación C:\Users\joseg\Desktop\Practicas-PG\bin\ej3-4d.exe
+[Tue Mar  3 22:09:22 2020] INF: [sdladapter.cpp (489)] Window Properties: DOUBLE_BUFFER 
+[Tue Mar  3 22:09:22 2020] INF: [sdladapter.cpp (491)] SDL Window flags: SDL_WINDOW_OPENGL SDL_WINDOW_SHOWN SDL_WINDOW_RESIZABLE SDL_WINDOW_INPUT_FOCUS SDL_WINDOW_MOUSE_FOCUS 
+[Tue Mar  3 22:09:22 2020] INF: [sdladapter.cpp (494)] SDL Context flags: SDL_GL_CONTEXT_DEBUG_FLAG 
+[Tue Mar  3 22:09:22 2020] INF: [window.cpp (128)] Ventana creada. Soporte de OpenGL: GL_VERSION_4_5
+[Tue Mar  3 22:09:22 2020] INF: [windowbuilder.cpp (75)] Información del driver:
+GL_VENDOR: NVIDIA Corporation
+GL_RENDERER: GeForce GTX 1650 with Max-Q Design/PCIe/SSE2
+GL_VERSION: 4.5.0 NVIDIA 442.50
+GL_SHADING_LANGUAGE_VERSION: 4.50 NVIDIA
+Tamaño del framebuffer por defecto:
+   bits de color: (8, 8, 8, 0), depth: 24, stencil: 8
+
+[Tue Mar  3 22:09:22 2020] INF: [app.cpp (161)] Library versions
+PGUPV 64 bits Debug Revision: 1994
+Boost: 1_69
+SDL: Runtime: 2.0.8 Compiled: 2.0.8
+Assimp: 4.1.0
+GLEW: 2.2.0
+Par Shapes: http://github.prideout.net/shapes @ August 2016
+GLI: 0.8.3
+FreeImage: 3.18.0
+ImGui: 1.70
+[Tue Mar  3 22:09:22 2020] INF: [app.cpp (418)] No se han encontrado joysticks en el sistema
+[Tue Mar  3 22:09:22 2020] INF: [bufferobject.cpp (41)] Buffer object 1 ha reservado 96 bytes
+[Tue Mar  3 22:09:22 2020] INF: [bufferobject.cpp (41)] Buffer object 2 ha reservado 72 bytes
+[Tue Mar  3 22:09:22 2020] INF: [bufferobject.cpp (41)] Buffer object 3 ha reservado 48 bytes
+[Tue Mar  3 22:09:22 2020] INF: [bufferobject.cpp (41)] Buffer object 4 ha reservado 32 bytes
+[Tue Mar  3 22:09:22 2020] INF: [bufferobject.cpp (41)] Buffer object 5 ha reservado 368 bytes
+[Tue Mar  3 22:09:22 2020] INF: [glmatrices.cpp (160)] UBO GLMatrices creado
+[Tue Mar  3 22:09:22 2020] INF: [shader.cpp (169)] Compilando ../recursos/shaders/constantshadinguniform.vert
+[Tue Mar  3 22:09:22 2020] INF: [shader.cpp (169)] Compilando ../recursos/shaders/constantshadinguniform.frag
+[Tue Mar  3 22:10:13 2020] INF: [app.cpp (599)] Aplicación terminada normalmente
+[Tue Mar  3 22:10:13 2020] INF: [bufferobject.cpp (19)] Buffer object 3 (Vertices) destruído
+[Tue Mar  3 22:10:13 2020] INF: [bufferobject.cpp (19)] Buffer object 4 (Coord. de textura (0)) destruído
+[Tue Mar  3 22:10:13 2020] INF: [bufferobject.cpp (19)] Buffer object 2 (Vertices) destruído
+[Tue Mar  3 22:10:13 2020] INF: [bufferobject.cpp (19)] Buffer object 1 (Colores) destruído
+[Tue Mar  3 22:10:13 2020] INF: [bufferobject.cpp (19)] Buffer object 5 (GLMatrices) destruído
+[Tue Mar  3 22:10:13 2020] INF: [app.cpp (93)] App destroyed
+[Tue Mar  3 22:10:13 2020] INF: [log.cpp (46)] Closing Log
